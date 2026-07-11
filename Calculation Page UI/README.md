@@ -85,5 +85,5 @@ The interface uses a minimal layout with a soft green color palette to create a 
 
 UI/UX Designer & Front-End Developer
 
-GitHub: https://github.com/lailaharb004-creator 
-Figma Challenge Solution : https://www.figma.com/design/VxN2uW2IpeHWIBAGnW3MnM/Calculation?node-id=0-1&t=eejMHizsaS3F0k8o-1
+- GitHub: https://github.com/lailaharb004-creator 
+- Figma Challenge Solution : https://www.figma.com/design/VxN2uW2IpeHWIBAGnW3MnM/Calculation?node-id=0-1&t=eejMHizsaS3F0k8o-1
