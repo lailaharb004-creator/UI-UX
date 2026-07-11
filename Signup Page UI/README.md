@@ -93,5 +93,5 @@ https://www.dailyui.co/
 
 UI/UX Designer & Front-End Learner
 
-GitHub: https://github.com/lailaharb004-creator 
-Figma Challenge Solution : https://www.figma.com/design/g2ukBmRK7EL5oOfDqxIxcx/Signup---UI?node-id=0-1&t=xxuTkwwr60IKPEcX-1 
+- GitHub: https://github.com/lailaharb004-creator 
+- Figma Challenge Solution : https://www.figma.com/design/g2ukBmRK7EL5oOfDqxIxcx/Signup---UI?node-id=0-1&t=xxuTkwwr60IKPEcX-1 
