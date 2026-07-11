@@ -61,13 +61,6 @@ The interface combines:
 - Build a visually engaging event registration page
 
 ---
-
-## 📸 Preview
-
-![alt text](<iPhone 17 - 1.png>) ![alt text](<Desktop - 1.png>)
-
----
-
 ## 💡 What I Learned
 
 - Creating responsive layouts in Figma
